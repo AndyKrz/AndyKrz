@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Java and Android Projects
 
-I'm a strong decision maker person, who wants to be a part of a great company. I like working in a team and give some ideas to make a project more creative.
+I'm an easy going person, who wants to be a part of a great company. I like working in a team and give some ideas to make a project more creative.
 I hope to be a junior Java Developer specializing in Web Development and Android applications. I feel well in HTML5, CSS, MySQL, Java. 
 
 
