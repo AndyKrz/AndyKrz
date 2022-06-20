@@ -1,12 +1,12 @@
 ### Hi I'm Andy 👋
-
+<!-- 
 - 🔭 I’m currently working on Java and Android Projects
 
 I'm an easy going person, who wants to be a part of a great company. I like working in a team and give some ideas to make a project more creative.
 I hope to be a junior Java Developer specializing in Web Development and Android applications. I feel well in HTML5, CSS, MySQL, Java. 
 
 
-<img src="https://www.svgrepo.com/show/71269/java.svg" height="30"><img src="https://www.svgrepo.com/show/141566/android.svg" height="30"><img src="https://www.svgrepo.com/show/108882/html.svg" height="30"><img src="https://www.svgrepo.com/show/240345/css.svg" height="30">
+<img src="https://www.svgrepo.com/show/71269/java.svg" height="30"><img src="https://www.svgrepo.com/show/141566/android.svg" height="30"><img src="https://www.svgrepo.com/show/108882/html.svg" height="30"><img src="https://www.svgrepo.com/show/240345/css.svg" height="30"> -->
 
 <!--
 **AndyKrz/AndyKrz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
